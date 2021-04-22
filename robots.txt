@@ -1,1 +1,1 @@
-Sitemap: https://howard86.github.io/python-learning-blog/sitemap.xml
+Sitemap: https://python.howard86.com/sitemap.xml
