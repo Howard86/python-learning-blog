@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
-github_username: Howard86
+title: Learn Python Today
+description: Sharing some Python resources with Jupyter Notebooks.
+github_username: howard86
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "python-learning-blog"
 
@@ -39,8 +39,8 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: howard86_
+    github: howard86
 
 # Set this to true to get LaTeX math equation support
 use_math:
@@ -58,7 +58,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: UA-195295691-1
 
 exclude:
   - docker-compose.yml
@@ -104,7 +104,7 @@ paginate_path: /page:num/
 remote_theme: jekyll/minima
 
 titles_from_headings:
-  enabled:     true
+  enabled: true
   strip_title: true
   collections: true
 
